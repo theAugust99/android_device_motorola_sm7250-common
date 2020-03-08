@@ -27,5 +27,7 @@
          one bar higher than they actually are -->
     <bool name="config_inflateSignalStrength">true</bool>
 
+    <!-- VoLTE: Show new HD VoLTE icon  -->
+    <bool name="config_display_hd_volte">true</bool>
 
 </resources>
